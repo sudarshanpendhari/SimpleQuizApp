@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/coding/demo/app/src/main/res/drawable-v24/ic_baseline_info_24.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable-v24/ic_baseline_person_outline_24.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/back1.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/back2.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/back3.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/back4.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/border.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/buttonicon.xml" value="0.2375" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/fancyback.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/ic_formula_background.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/ic_formula_foreground.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/ic_home_background.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/ic_home_foreground.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/ic_share_background.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/progress_background.xml" value="0.2265" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/round_corner.xml" value="0.2" />
+        <entry key="..\:/coding/demo/app/src/main/res/drawable/score_back.xml" value="0.2375" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_category.xml" value="0.264" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_formula.xml" value="0.17421875" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_info.xml" value="0.17421875" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_main.xml" value="0.1828125" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_main2.xml" value="0.17421875" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_question.xml" value="0.176" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_register.xml" value="0.23229166666666667" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_score.xml" value="0.2" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_sets.xml" value="0.23229166666666667" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/activity_splash.xml" value="0.1581081081081081" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/cat_item_layout.xml" value="0.23125" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/fragment_dashboard.xml" value="0.17421875" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/fragment_first.xml" value="0.17421875" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/fragment_second.xml" value="0.163671875" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/loading_progressbar.xml" value="0.17421875" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/mymenu.xml" value="0.2" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/score_item_layout.xml" value="0.24375" />
+        <entry key="..\:/coding/demo/app/src/main/res/layout/set_item_layout.xml" value="0.23125" />
+        <entry key="..\:/coding/demo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17421875" />
+        <entry key="..\:/coding/demo/app/src/main/res/menu/menu_main.xml" value="0.24375" />
+        <entry key="..\:/coding/demo/app/src/main/res/menu/mymenu.xml" value="0.24375" />
+        <entry key="..\:/coding/demo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
