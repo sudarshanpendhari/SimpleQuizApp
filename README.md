@@ -23,8 +23,8 @@ This is simple project which is a Quiz app. It has splash screen and Google admo
 - Firebase firestore to store Questions
 - Admob 
 
-##Download the APK
-[click Here]https://drive.google.com/file/d/1CGAgRO3bVVESmLRT-0Fvb1fa87-jud7e/view?usp=sharing 
+## Download the APK
+[click Here](https://drive.google.com/file/d/1CGAgRO3bVVESmLRT-0Fvb1fa87-jud7e/view?usp=sharing)
 
 
 
