@@ -29,19 +29,19 @@ This is simple project which is a Quiz app. It has splash screen and Google admo
 ## Screenshots
 
 <b>Splash screen</b> <br><br>
-[![Screenshot-20230228-163702-Quiz-app.jpg](https://i.postimg.cc/zf0P3N99/Screenshot-20230228-163702-Quiz-app.jpg)](https://postimg.cc/2qLxXsjw)<br>
+[![Screenshot-20230228-163702-Quiz-app.jpg](https://i.postimg.cc/zf0P3N99/Screenshot-20230228-163702-Quiz-app.jpg)](https://postimg.cc/2qLxXsjw)<br><br>
 <b>Log-in page</b><br><br>
-[![Screenshot-20230228-163708-Quiz-app.jpg](https://i.postimg.cc/Twyw4dGx/Screenshot-20230228-163708-Quiz-app.jpg)](https://postimg.cc/62Xt7Nyb)<br>
+[![Screenshot-20230228-163708-Quiz-app.jpg](https://i.postimg.cc/Twyw4dGx/Screenshot-20230228-163708-Quiz-app.jpg)](https://postimg.cc/62Xt7Nyb)<br><br>
 <b>Register page</b><br><br>
-[![Screenshot-20230228-163716-Quiz-app.jpg](https://i.postimg.cc/CMkMB6xc/Screenshot-20230228-163716-Quiz-app.jpg)](https://postimg.cc/qgBHWwnK)<br>
+[![Screenshot-20230228-163716-Quiz-app.jpg](https://i.postimg.cc/CMkMB6xc/Screenshot-20230228-163716-Quiz-app.jpg)](https://postimg.cc/qgBHWwnK)<br><br>
 <b>Category activity</b><br><br>
-[![Screenshot-20230228-163745-Quiz-app.jpg](https://i.postimg.cc/BQJ38Syv/Screenshot-20230228-163745-Quiz-app.jpg)](https://postimg.cc/kDYzzm7r)<br>
+[![Screenshot-20230228-163745-Quiz-app.jpg](https://i.postimg.cc/BQJ38Syv/Screenshot-20230228-163745-Quiz-app.jpg)](https://postimg.cc/kDYzzm7r)<br><br>
 <b>Set activity</b><br><br>
-[![Screenshot-20230228-163751-Quiz-app.jpg](https://i.postimg.cc/hjFWKcTc/Screenshot-20230228-163751-Quiz-app.jpg)](https://postimg.cc/QBqnbLfy)<br>
+[![Screenshot-20230228-163751-Quiz-app.jpg](https://i.postimg.cc/hjFWKcTc/Screenshot-20230228-163751-Quiz-app.jpg)](https://postimg.cc/QBqnbLfy)<br><br>
 <b>Info activity</b><br><br>
-[![Screenshot-20230228-163756-Quiz-app.jpg](https://i.postimg.cc/8cD2r4ZY/Screenshot-20230228-163756-Quiz-app.jpg)](https://postimg.cc/G877WFwP)<br>
+[![Screenshot-20230228-163756-Quiz-app.jpg](https://i.postimg.cc/8cD2r4ZY/Screenshot-20230228-163756-Quiz-app.jpg)](https://postimg.cc/G877WFwP)<br><br>
 <b>Questions Activity</b><br><br>
 [![Screenshot-20230228-163801-Quiz-app.jpg](https://i.postimg.cc/XqVPvJJS/Screenshot-20230228-163801-Quiz-app.jpg)](https://postimg.cc/xJ45x9Mt)<br>
-[![Screenshot-20230228-163831-Quiz-app.jpg](https://i.postimg.cc/vTfrxRPr/Screenshot-20230228-163831-Quiz-app.jpg)](https://postimg.cc/FkFdw6Xz)
+[![Screenshot-20230228-163831-Quiz-app.jpg](https://i.postimg.cc/vTfrxRPr/Screenshot-20230228-163831-Quiz-app.jpg)](https://postimg.cc/FkFdw6Xz)<br><br>
 <b>Result activity</b><br><br>
 [![Screenshot-20230228-163842-Quiz-app.jpg](https://i.postimg.cc/Wb7ZBwx1/Screenshot-20230228-163842-Quiz-app.jpg)](https://postimg.cc/2VV3vhzs)<br>
